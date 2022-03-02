@@ -1,5 +1,7 @@
 # AngularAppParcel
 
+An Angular microfrontend application for using with a single-spa root-config, initially generated with the command `npx create-single-spa --moduleType app-parcel`.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.2.5.
 
 ## Requirements
