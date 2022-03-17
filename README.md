@@ -6,7 +6,7 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Requirements
 
-- Node.js v14
+- Node.js v16
 
 ## Install dependencies
 
